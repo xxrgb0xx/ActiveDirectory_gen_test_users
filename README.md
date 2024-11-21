@@ -15,7 +15,7 @@
 ### Переменные в скрипте:
 `$NumberOfUsers` - число генерируемых пользователей;
 
-`$OUPath` = OU/CN в котором будут созданы пользователи в формате distinguished name (например, `OU=Test1,DC=localnet,DC=example,DC=ru`);
+`$OUPath` - OU/CN в котором будут созданы пользователи в формате distinguished name (например, `OU=Test1,DC=localnet,DC=example,DC=ru`);
 
 `$MailDomain` - почтовый домен (часть email после `@`);
 
